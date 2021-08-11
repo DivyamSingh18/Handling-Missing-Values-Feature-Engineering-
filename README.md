@@ -11,6 +11,7 @@
  * For Categorical variables: <br>
    >Frequent category imputation <br>
    >Add a missing category <br>
+   >Capturing NAN Values with a new Feature <br>
 
  * Some Imputation techniques can be modifies to work on numercal or categorical variables
 
