@@ -13,6 +13,6 @@
    >Add a missing category <br>
 
  * For Both: <br>
-   >Add a missing indicator <br>
    >Random sample imputation
+   >Capturing NaN Values with a New Feature
 
