@@ -12,7 +12,5 @@
    >Frequent category imputation <br>
    >Add a missing category <br>
 
- * For Both: <br>
-   >Random sample imputation <br>
-   >Capturing NaN Values with a New Feature
+ * Some Imputation techniques can be modifies to work on numercal or categorical variables
 
