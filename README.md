@@ -13,6 +13,6 @@
    >Add a missing category <br>
 
  * For Both: <br>
-   >Random sample imputation
+   >Random sample imputation <br>
    >Capturing NaN Values with a New Feature
 
