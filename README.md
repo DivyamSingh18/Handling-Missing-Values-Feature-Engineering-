@@ -3,7 +3,7 @@
 
 * For numerical variables: <br>
    >Mean Mode Median Imputation <br>
-   >Random Imputation <br>
+   >Random sample Imputation <br>
    >Arbitrary Imputation <br>
    >End of Distribution Imputation <br>
    >Capturing NAN Values with a new Feature <br>
